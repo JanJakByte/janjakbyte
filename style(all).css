@@ -1,0 +1,27 @@
+body {
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 300%;
+	font-family: "Arial";
+}
+
+p{
+	font-size: 150%;
+	font-family: "Arial";
+}
+
+hr{
+	border: 2px solid black;
+	border-radius: 1px;
+}
+
+p.wb{
+	background-color: black;
+	color: white;
