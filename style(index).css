@@ -1,12 +1,14 @@
-img.normal{
+img{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
+	width: 90%;
 	height: auto;
 }
 
-img.email{
-	width: 5%;
-	height: auto;
+body {
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
